@@ -1,0 +1,5 @@
+https://ff-like-bot-snowy-three.vercel.app/like?uid={uid}&region={region}&key=SAINI
+
+
+
+https://ff-like-bot-snowy-three.vercel.app/
